@@ -1,0 +1,27 @@
+{
+  "name": "file-status",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Brian Takita <brian.takita@gmail.com>",
+  "contributors": [],
+  "scripts": {
+  },
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btakita/node-file-status"
+  },
+  "bugs": {
+    "url": "https://github.com/btakita/node-file-status/issues"
+  },
+  "keywords": [
+    "file-status",
+    "node-file-status"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "analyze": true,
+  "license": "Apache"
+}
